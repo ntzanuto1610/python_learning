@@ -1,2 +1,2 @@
 # python_learning
-Leraning python with examples
+Learning python with examples
